@@ -52,7 +52,7 @@
 
 
 
-`GET or POST /login/token.php?webservice/rest/server.php?moodlewsrestformat=json&wsfunction=core_webservice_get_site_info&moodlewssettingfilter=true&moodlewssettingfileurl=true&wstoken=<wstoken>`
+`GET or POST /webservice/rest/server.php?moodlewsrestformat=json&wsfunction=core_webservice_get_site_info&moodlewssettingfilter=true&moodlewssettingfileurl=true&wstoken=<wstoken>`
 
 | Parameter     | Description   | type  |
 | ------------- |:-------------:| -----:|
